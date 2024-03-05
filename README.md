@@ -1,4 +1,4 @@
-# Car-Preodiction-Model
+# Car-Price-Prediction-Model
 
 # Overview
 This repository contains the code for a car prediction model. The model predicts the future position of a car based on its current state and historical data. It utilizes a combination of sensor measurements, such as GPS and IMU data, and machine learning algorithms to make predictions.
@@ -10,8 +10,6 @@ This repository contains the code for a car prediction model. The model predicts
  - Provides visualization tools for analyzing prediction results.
 # Installation
 Clone this repository to your local machine:
-# Bash
-git clone https://github.com/your-username/Car-Prediction-Model.git
 Install the required dependencies:
 # Bash
 pip install -r requirements.txt
@@ -41,4 +39,4 @@ Contributions are welcome! Here's how you can contribute:
  - Create a new pull request.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mahn-bonnie/Car-Price-Prediction-Model?tab=MIT-1-ov-file#) file for details.
