@@ -1,6 +1,8 @@
 # Car-Price-Prediction-Model
 
 # Overview
+![Screenshot 2024-03-11 14 13 08](https://github.com/mahn-bonnie/Car-Price-Prediction-Model/assets/156321537/6e4ca82e-3895-4acc-bb7d-6ef7f91dfd81)
+
 This repository contains the code for a car prediction model. The model predicts the future position of a car based on its current state and historical data. It utilizes a combination of sensor measurements, such as GPS and IMU data, and machine learning algorithms to make predictions.
 
 # Features
